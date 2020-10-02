@@ -6,4 +6,3 @@ eleventyNavigation:
 ---
 
 Bonjour à Eleventy starter.
-Coucou Tanguy t'es le meilleur woulah
